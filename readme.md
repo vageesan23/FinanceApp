@@ -7,7 +7,7 @@
   <h3 align="center">FinanceApp</h3>
 
   <p align="center">
-    Finance App - simple financial calculator for Mobile Application Development module
+    Finance App - A simple financial calculator for Mobile Application Development module
     <br />
     <br />
     <br />
